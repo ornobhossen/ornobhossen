@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ornobhossen/ornobhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><sub>WOW PROFILE · ORNOBHOSSEN · LIVE</sub></p>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ornobhossen&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172270210%3Fu%3Da349c874e75fa43ca5fd4ab66b779ba746f3d44b%26v%3D4&variant=living-identity&label=Ornob%20Hossen&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ornobhossen&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172270210%3Fu%3Da349c874e75fa43ca5fd4ab66b779ba746f3d44b%26v%3D4&variant=living-identity&label=Ornob%20Hossen&v=wow-living-identity-1&mode=dark" width="100%" alt="Ornob Hossen animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/ornobhossen">GitHub</a></p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=ornobhossen&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172270210%3Fu%3Da349c874e75fa43ca5fd4ab66b779ba746f3d44b%26v%3D4&v=showcase-projects-3" alt="Ornob Hossen projects visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=ornobhossen&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172270210%3Fu%3Da349c874e75fa43ca5fd4ab66b779ba746f3d44b%26v%3D4&v=showcase-stack-4" alt="Ornob Hossen stack visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=ornobhossen&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172270210%3Fu%3Da349c874e75fa43ca5fd4ab66b779ba746f3d44b%26v%3D4&v=showcase-heatmap-5" alt="Ornob Hossen heatmap visual" />
+</p>
